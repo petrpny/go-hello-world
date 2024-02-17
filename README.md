@@ -1,6 +1,6 @@
 # go-hello-world
 
-Install
+Install - test
 
 ```
 go get github.com/bluecodemonks/go-hello-world
